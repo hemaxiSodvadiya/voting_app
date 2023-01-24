@@ -1,16 +1,6 @@
-# firebase_revision_22_1_23
+# Voting App
+ using Firebase/ Cloudfirestore
+ 
 
-A new Flutter project.
+<img src="https://user-images.githubusercontent.com/111499619/205219537-436e8c6a-a66b-4c05-89f7-f39755d1a945.png" style=" height:600PX; " data-target="animated-image.originalImage">                     <img src="https://user-images.githubusercontent.com/111499619/205219759-fa0140f2-f040-4ae9-b941-b5c23e1f058b.png" style=" height:600PX; " data-target="animated-image.originalImage">                         <img src="https://user-images.githubusercontent.com/111499619/205219911-26c2e31a-01a2-4a87-99da-3b8c89d2fa58.png" style=" height:600PX; " data-target="animated-image.originalImage">
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
